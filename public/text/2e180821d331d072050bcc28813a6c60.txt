@@ -1,0 +1,69 @@
+Desafío
+Se requiere realizar cambios al proyecto del desafío 1 o usar la versión Laboratorio evaluación N1 -
+versión ok.pdf
+Ejercicio Lab
+temporal
+Laboratorio evaluacion N1 - version 4 ok.pdf
+1. Ser requiere
+D 127.0.0.1:8000
+Nombre:
+Telefono:
+Fecha Reserva:
+Hora Reserva:
+Cantidad de Personas:
+Observaciones:
+Website:
+Email:
+Donante:
+Edad:
+Estado Reserva:
+Tipo Reserva:
+Archivo a Subir:
+●
+No se encuentran reservas en el Sistema
+Nombre
+Teresa
+●
+ADMINISTRACIÓN DE RESERVAS
+Telefono
+994503051
+teresa
+Fecha Reserva
+994503051
+15-11-2023
+11:52 O
+12
+Nov. 16, 2023
+12345
+Eliminar campo Edad
+Incluir campo fecha de nacimiento
+● Eliminar campo cantidad de personas
+● Incluir campo cantidad de hermanos
+http://www.al.cl
+teresa tapia02@inacapma
+2. Modificar la tabla de resultados.
+7
+45
+estadol
+solicitud 2
+Elegir archivo cedula identidad.jpg
+Hora Reserva
+1:01 p.m.
+Website
+http://www.al.cl
+La tabla debe agregar y mostrar los campos:
+Estado
+Email
+A
+anulado teresa.tapia02@inacapmail.cl
+0 ☆☆
+Guardar
+1
+O O O
+Fecha de Solicitud
+Edad
+Link Descarga PDF
+El archivo PDF a mostrar es un documento que posea un formulario con
+los datos de la solicitud de la reserva.
+3. El proyecto debe seguir realizando las mismas operaciones de listar, agregar, modificar y
+eliminar.
